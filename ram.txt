@@ -1,3 +1,5 @@
 This txt file was created for git push tutorial.
 
-This is the 2nd change that i made in this txt file.
+This is the 2nd change that i made in this txt file from local.
+
+This change is made from github and to perform the task to fetch tis update to local.
