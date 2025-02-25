@@ -1,1 +1,3 @@
 This txt file was created for git push tutorial.
+
+This is the 2nd change that i made in this txt file.
